@@ -72,3 +72,9 @@ a:hover {
         flex-direction: column;
     }
 }
+/* Responsive image */
+img {
+    max-width: 100%; /* Maximum width 100% */
+    height: auto; /* Automatic height */
+}
+
